@@ -1,5 +1,12 @@
 #include <bits/stdc++.h>
 using namespace std;
+typedef long long ll;
+
 int main(){
-   
+  int TC;
+  cin >> TC;
+  while (TC--)
+  {
+    
+  }   
 }
