@@ -2,11 +2,14 @@
 using namespace std;
 typedef long long ll;
 
+void solve(){
+  
+}
+
 int main(){
   int TC;
-  cin >> TC;
-  while (TC--)
-  {
-    
-  }   
+  scanf("%d", &TC);
+  while(TC--){
+    solve();
+  }
 }
