@@ -7,8 +7,11 @@ void solve(){
 }
 
 int main(){
-  int TC;
-  scanf("%d", &TC);
+  ios::sync_with_stdio(false);
+  cin.tie(NULL);
+  cout.tie(NULL);
+  int TC = 1;
+  cin >> TC;
   while(TC--){
     solve();
   }
